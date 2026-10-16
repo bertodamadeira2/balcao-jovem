@@ -1,0 +1,104 @@
+{
+ "cmf": [
+  {
+   "n": "Plano Municipal de Juventude (FunJOVEM 20-30)",
+   "d": "A estratégia municipal para a juventude, com 7 objetivos. O II Plano está em revisão desde 28/09/2026.",
+   "u": "https://juventudeedesporto.funchal.pt/juventude/plano-municipal-de-juventude/"
+  },
+  {
+   "n": "Conselho Municipal de Juventude",
+   "d": "Órgão consultivo onde associações e representantes juvenis dão parecer sobre as políticas de juventude.",
+   "u": "https://juventudeedesporto.funchal.pt/juventude/conselho-municipal-de-juventude/"
+  },
+  {
+   "n": "EDUCA-TE",
+   "d": "Sessões de 50 min de educação não formal: Desagarra(TE) (dependências), Quebra-Cabeças (saúde mental), Cidade da Participação. Por marcação, para escolas e associações.",
+   "u": "https://juventudeedesporto.funchal.pt/juventude/programa-municipal-de-capacitacao-jovem/"
+  },
+  {
+   "n": "Voluntariado Jovem",
+   "d": "Bolsa de Voluntários dos 15 aos 23 anos, com Cartão de Voluntário e kit.",
+   "u": "https://juventudeedesporto.funchal.pt/juventude/voluntariado-jovem/",
+   "c": "voluntariadojovem@funchal.pt"
+  },
+  {
+   "n": "Associativismo Juvenil",
+   "d": "Apoios a associações juvenis segundo o regulamento municipal.",
+   "u": "https://juventudeedesporto.funchal.pt/juventude/associativismo-juvenil/"
+  },
+  {
+   "n": "As tuas ideias · Tertúlias Juvenis · Podcast \"Estás Ligado?\"",
+   "d": "Participação e conversa com os jovens da cidade.",
+   "u": "https://juventudeedesporto.funchal.pt/juventude/"
+  },
+  {
+   "n": "Projetos e Eventos",
+   "d": "Funchal Summer Fest, Fórum Jovem \"12.º ano e Depois?!\", campanha contra a violência no namoro.",
+   "u": "https://juventudeedesporto.funchal.pt/juventude/projetos-eventos/"
+  }
+ ],
+ "drj": [
+  {
+   "n": "Loja de Juventude do Funchal",
+   "d": "Informação juvenil, sala de estudo, internet e Cartão Jovem. Seg.–sex. 9h–19h, sáb. 9h–12h30.",
+   "m": "Rua dos Netos, 46 (Edifício do Ateneu)",
+   "t": "291 203 830",
+   "c": "juventude@madeira.gov.pt"
+  },
+  {
+   "n": "Cartão Jovem Madeira",
+   "d": "Gratuito, dos 12 aos 29 anos, pedido online.",
+   "u": "https://www.cartaojovem.pt/Emissao"
+  },
+  {
+   "n": "Centro de Juventude do Funchal",
+   "d": "Alojamento juvenil 24 h; atendimento das 8h às 20h.",
+   "m": "Avenida Calouste Gulbenkian",
+   "t": "291 145 512",
+   "c": "pousadas.drj@madeira.gov.pt"
+  },
+  {
+   "n": "Hub.Juventude",
+   "d": "Cowork, inovação e empreendedorismo jovem (16–30 anos).",
+   "t": "291 145 730"
+  },
+  {
+   "n": "RRAJ — Registo Regional de Associativismo Jovem",
+   "d": "Registo das organizações de juventude da RAM; dá acesso aos apoios.",
+   "u": "https://digital.madeira.gov.pt/associativismo/RRAJ.aspx",
+   "c": "associativismojovem@madeira.gov.pt"
+  },
+  {
+   "n": "Eurodesk · Campos de Férias · Conselho Regional de Juventude",
+   "d": "Mobilidade europeia (Erasmus+, voluntariado), ocupação de tempos livres e participação regional.",
+   "u": "https://www.madeira.gov.pt/drj"
+  }
+ ],
+ "dre": [
+  {
+   "n": "Direção Regional de Educação",
+   "d": "Rede escolar, matrículas, educação especial e ação social escolar.",
+   "m": "Edifício 2000, Av. Calouste Gulbenkian, 3, 4.º",
+   "t": "291 145 860",
+   "c": "dre@edu.madeira.gov.pt",
+   "u": "https://www.madeira.gov.pt/dre"
+  },
+  {
+   "n": "Gabinete do Ensino Superior",
+   "d": "Bolsa de Estudos regional e Bolsa Local.",
+   "m": "Av. Arriaga, Edifício do Governo Regional",
+   "t": "291 145 515",
+   "u": "https://digital.madeira.gov.pt/ensinosuperior/"
+  }
+ ],
+ "iem": [
+  {
+   "n": "Instituto de Emprego da Madeira",
+   "d": "Garantia Jovem, PROJOVEM, eJovem, estágios. Seg.–sex. 9h–16h.",
+   "m": "Rua da Boa Viagem, 36",
+   "t": "291 145 740",
+   "c": "emprego@iem.madeira.gov.pt",
+   "u": "https://www.iem.madeira.gov.pt/"
+  }
+ ]
+}

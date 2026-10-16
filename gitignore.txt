@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+tools/caop_GeoJSON/
+*.zip
+# nunca publicar dados pessoais
+export-*.json
+publicar-github.bat

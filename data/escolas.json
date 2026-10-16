@@ -1,0 +1,506 @@
+[
+ {
+  "id": "e01",
+  "n": "EB1/PE da Achada",
+  "nv": "pe1",
+  "f": "",
+  "m": "Estrada Dr. João Abel de Freitas, 128, 9000-402",
+  "t": "291 757 655",
+  "e": "eb1peachada@edu.madeira.gov.pt"
+ },
+ {
+  "id": "e02",
+  "n": "EB1/PE da Ajuda",
+  "nv": "pe1",
+  "f": "São Martinho",
+  "m": "Rua Velha da Ajuda, 110, 9000-115",
+  "t": "291 146 051",
+  "e": "eb1.ajudafunchal@gmail.com"
+ },
+ {
+  "id": "e03",
+  "n": "EB1/PE do Areeiro e Lombada",
+  "nv": "pe1",
+  "f": "São Martinho",
+  "m": "Sítio do Areeiro, 12, 9000-243",
+  "t": "291 761 709",
+  "e": "eb1pearreeirolombada@edu.madeira.gov.pt"
+ },
+ {
+  "id": "e04",
+  "n": "EB1/PE do Boliqueime",
+  "nv": "pe1",
+  "f": "Santo António",
+  "fc": 1,
+  "m": "Caminho da Barreira, 57, 9020-068",
+  "t": "291 757 021",
+  "e": "eb1peboliqueime@edu.madeira.gov.pt"
+ },
+ {
+  "id": "e05",
+  "n": "EB1/PE Cruz de Carvalho",
+  "nv": "pe1",
+  "f": "",
+  "m": "Bairro do Hospital, Rua 2, n.º 1, 9000-180",
+  "t": "291 741 094",
+  "e": "eb1peccarvalho@edu.madeira.gov.pt"
+ },
+ {
+  "id": "e06",
+  "n": "EB1/PE dos Ilhéus – Coronel Sarmento",
+  "nv": "pe1",
+  "f": "",
+  "m": "Rua Tenente Coronel Sarmento, 5, 9000-176",
+  "t": "291 743 870",
+  "e": "eb1pe_ilheus@edu.madeira.gov.pt"
+ },
+ {
+  "id": "e07",
+  "n": "EB1/PE da Ladeira",
+  "nv": "pe1",
+  "f": "Santo António",
+  "fc": 1,
+  "m": "Caminho da Terra Chã, 17, 9020-124",
+  "t": "291 743 167",
+  "e": "eb1peladeira@edu.madeira.gov.pt"
+ },
+ {
+  "id": "e08",
+  "n": "EB1/PE do Monte",
+  "nv": "pe1",
+  "f": "Monte",
+  "m": "Estrada do Livramento, 112, 9050-231",
+  "t": "291 146 004",
+  "e": "eb1pemonte@edu.madeira.gov.pt"
+ },
+ {
+  "id": "e09",
+  "n": "EB1/PE e Creche da Nazaré",
+  "nv": "pe1",
+  "f": "São Martinho",
+  "m": "Avenida do Colégio Militar, 9000-135",
+  "t": "291 146 041",
+  "e": "eb1pecnazare@edu.madeira.gov.pt"
+ },
+ {
+  "id": "e10",
+  "n": "EB1/PE da Pena",
+  "nv": "pe1",
+  "f": "",
+  "m": "Rua Pedro José Ornelas, 18 F, 9050-069",
+  "t": "291 241 633",
+  "e": "eb1pepena@edu.madeira.gov.pt"
+ },
+ {
+  "id": "e11",
+  "n": "EB1/PE Ribeiro Domingos Dias",
+  "nv": "pe1",
+  "f": "",
+  "m": "Caminho das Voltas, 9050-252",
+  "t": "291 146 019",
+  "e": "eb1rdd@edu.madeira.gov.pt"
+ },
+ {
+  "id": "e12",
+  "n": "EB1/PE e Creche de Santo Amaro",
+  "nv": "pe1",
+  "f": "Santo António",
+  "m": "Travessa Dr. Fernando Rebelo, Bairro de Santo Amaro, 9020-019",
+  "t": "291 146 027",
+  "e": "eb1pecsantoamaro@edu.madeira.gov.pt"
+ },
+ {
+  "id": "e13",
+  "n": "EB1/PE de São Martinho",
+  "nv": "pe1",
+  "f": "São Martinho",
+  "m": "Caminho de São Martinho, 13, 9000-273",
+  "t": "291 762 011",
+  "e": "eb1pesmartinho@edu.madeira.gov.pt"
+ },
+ {
+  "id": "e14",
+  "n": "EB1/PE e Creche Prof. Eleutério de Aguiar",
+  "nv": "pe1",
+  "f": "Santa Maria Maior",
+  "fc": 1,
+  "m": "Rua Dr. Juvenal, 20 B, 9060-147",
+  "t": "291 146 017",
+  "e": "eb1peleuterioaguiar@edu.madeira.gov.pt"
+ },
+ {
+  "id": "e15",
+  "n": "EB1/PE Visconde Cacongo",
+  "nv": "pe1",
+  "f": "",
+  "m": "Estrada Visconde Cacongo, 31, 9060-007",
+  "t": "291 146 015",
+  "e": "eb1pevcacongo@edu.madeira.gov.pt"
+ },
+ {
+  "id": "e16",
+  "n": "EB com PE Bartolomeu Perestrelo",
+  "nv": "eb",
+  "f": "",
+  "m": "Rua Bartolomeu Perestrelo, 3-5, 9050-328",
+  "t": "291 203 400",
+  "e": "bartolomeuperestrelo@edu.madeira.gov.pt"
+ },
+ {
+  "id": "e17",
+  "n": "EB com PE de Santo António e Curral das Freiras",
+  "nv": "eb",
+  "f": "Santo António",
+  "m": "Rua da Quinta Josefina, 1, 9020-321",
+  "t": "",
+  "e": "eb23santonio@edu.madeira.gov.pt",
+  "u": "http://www.ebsantonio.pt/",
+  "nota": "Telefone incompleto na fonte oficial"
+ },
+ {
+  "id": "e18",
+  "n": "EB com PE Dr. Eduardo Brazão de Castro",
+  "nv": "eb",
+  "f": "Santo António",
+  "m": "Rua da Escola Secundária do Galeão, 9020-212",
+  "t": "291 708 210",
+  "e": "eb23debcastro@edu.madeira.gov.pt"
+ },
+ {
+  "id": "e19",
+  "n": "EB com PE e Creche dos Louros",
+  "nv": "eb",
+  "f": "",
+  "m": "Rua dos Louros, 9050-164",
+  "t": "291 206 340",
+  "e": "escbaslouros@edu.madeira.gov.pt"
+ },
+ {
+  "id": "e20",
+  "n": "EB 2.º e 3.º Ciclos Dr. Horácio Bento de Gouveia",
+  "nv": "eb",
+  "f": "",
+  "m": "Estrada da Liberdade, 1, 9004-524",
+  "t": "291 740 010",
+  "e": "ebdhgouveia@ed.madeira.gov.pt",
+  "u": "https://www.hbg.pt/"
+ },
+ {
+  "id": "e21",
+  "n": "EBS Dr. Ângelo Augusto da Silva",
+  "nv": "sec",
+  "f": "Imaculado Coração de Maria",
+  "m": "Rua do Comboio, 61 C, 9050-053",
+  "t": "291 705 720",
+  "e": "geral@ebsaas.com"
+ },
+ {
+  "id": "e22",
+  "n": "EBS Gonçalves Zarco",
+  "nv": "sec",
+  "f": "",
+  "m": "Caminho da Fé, 1, 9004-525",
+  "t": "291 701 700",
+  "e": "ebsgzarco@edu.madeira.gov.pt",
+  "u": "https://ebsgzarco.pt/"
+ },
+ {
+  "id": "e23",
+  "n": "Escola Secundária de Francisco Franco",
+  "nv": "sec",
+  "f": "",
+  "m": "Rua João de Deus, 9, 9054-527",
+  "t": "291 202 820",
+  "e": "geral@esffranco.edu.pt"
+ },
+ {
+  "id": "e24",
+  "n": "Escola Secundária Jaime Moniz",
+  "nv": "sec",
+  "f": "",
+  "m": "Largo Jaime Moniz, 9064-503",
+  "t": "291 202 280",
+  "e": "geral@jaimemoniz.com",
+  "u": "https://www.jaimemoniz.com/"
+ },
+ {
+  "id": "e25",
+  "n": "Conservatório – Escola Profissional das Artes da Madeira",
+  "nv": "art",
+  "f": "",
+  "m": "Avenida Luís de Camões, 1, 9004-517",
+  "t": "291 200 590",
+  "e": "geral.cepam@edu.madeira.gov.pt",
+  "u": "http://www.conservatorioescoladasartes.com"
+ },
+ {
+  "id": "e26",
+  "n": "Colégio da Rochinha",
+  "nv": "priv",
+  "f": "",
+  "m": "Rua Coronel Cunha, 2A, 9060-082",
+  "t": "291 280 410",
+  "e": "colegiorochinha@sapo.pt"
+ },
+ {
+  "id": "e27",
+  "n": "Colégio Apresentação de Maria",
+  "nv": "priv",
+  "f": "",
+  "m": "Rua das Mercês, 25, 9000-224",
+  "t": "291 222 071",
+  "e": "administracao@externatoam.com",
+  "u": "https://www.externatoam.com/"
+ },
+ {
+  "id": "e28",
+  "n": "Colégio de Santa Teresinha",
+  "nv": "priv",
+  "f": "",
+  "m": "Rua Pedro José de Ornelas, 19, 9050-069",
+  "t": "291 229 095",
+  "e": "cstf@live.com.pt"
+ },
+ {
+  "id": "e29",
+  "n": "Colégio do Marítimo",
+  "nv": "priv",
+  "f": "",
+  "m": "Complexo Desportivo do Marítimo, 9020-208",
+  "t": "291 708 300",
+  "e": "colegio@csmaritimo.pt"
+ },
+ {
+  "id": "e30",
+  "n": "Colégio Infante D. Henrique",
+  "nv": "priv",
+  "f": "",
+  "m": "Caminho do Monte, 180, 9050-288",
+  "t": "291 743 258",
+  "e": "colegioinfantedh@gmail.com"
+ },
+ {
+  "id": "e31",
+  "n": "Colégio Salesianos Funchal",
+  "nv": "priv",
+  "f": "",
+  "m": "Rua Mãe dos Homens, 45, 9064-508",
+  "t": "291 200 450",
+  "e": "funchal@salesianos.pt"
+ },
+ {
+  "id": "e32",
+  "n": "Complexo Escolar D. Olga de Brito",
+  "nv": "priv",
+  "f": "",
+  "m": "Caminho da Achada, 11, 9000-208",
+  "t": "291 741 900",
+  "e": "dmadeira.donaolga@cruzvermelha.org.pt"
+ },
+ {
+  "id": "e33",
+  "n": "Escola Maria Eugénia Canavial",
+  "nv": "priv",
+  "f": "",
+  "m": "Rua da Mouraria, 29, 9000-047",
+  "t": "291 220 802",
+  "e": "lactario@netmadeira.com"
+ },
+ {
+  "id": "e34",
+  "n": "Externato Adventista do Funchal",
+  "nv": "priv",
+  "f": "Santa Maria Maior",
+  "fc": 1,
+  "m": "Rua Conde Carvalhal, 6A, 9060-011",
+  "t": "291 281 567",
+  "e": "externato_adventista@eaf.pt"
+ },
+ {
+  "id": "e35",
+  "n": "Externato Júlio Dinis",
+  "nv": "priv",
+  "f": "",
+  "m": "Calçada do Pico, 8 e 10, 9000-206",
+  "t": "291 742 461",
+  "e": "externatojuliodinis@madeira-edu.pt"
+ },
+ {
+  "id": "e36",
+  "n": "Externato Princesa D. Maria Amélia",
+  "nv": "priv",
+  "f": "",
+  "m": "Avenida do Infante, 12, 9004-513",
+  "t": "291 220 358",
+  "e": "secretaria.geral@fundacao-princesaamelia.pt"
+ },
+ {
+  "id": "e37",
+  "n": "Externato São João",
+  "nv": "priv",
+  "f": "",
+  "m": "Rua de São João, 9000-190",
+  "t": "291 759 273",
+  "e": "direcaoext@outlook.pt"
+ },
+ {
+  "id": "e38",
+  "n": "International Sharing School – Madeira",
+  "nv": "priv",
+  "f": "",
+  "m": "Caminho dos Saltos, 6, 9050-219",
+  "t": "291 773 218",
+  "e": "office@madeira.sharingschool.org"
+ },
+ {
+  "id": "e39",
+  "n": "The International School of Madeira",
+  "nv": "priv",
+  "f": "",
+  "m": "Calçada do Pico, 5, 9000-206",
+  "t": "291 129 900",
+  "e": "info@ismadeira.com"
+ },
+ {
+  "id": "e40",
+  "n": "Escola APEL",
+  "nv": "prof",
+  "f": "",
+  "m": "Caminho dos Saltos, 6 / Rua do Til, 69, 9050-219",
+  "t": "291 740 470",
+  "e": "geral@escola-apel.com"
+ },
+ {
+  "id": "e41",
+  "n": "Escola Profissional Atlântico",
+  "nv": "prof",
+  "f": "Sé",
+  "m": "Av. Arriaga, 77, Ed. Marina Fórum, 9000-060",
+  "t": "291 229 362",
+  "e": "info@epatlantico.pt"
+ },
+ {
+  "id": "e42",
+  "n": "Escola Profissional Cristóvão Colombo",
+  "nv": "prof",
+  "f": "",
+  "m": "Avenida do Infante, 6, 9000-015",
+  "t": "291 201 770",
+  "e": "info@epcc.pt"
+ },
+ {
+  "id": "e43",
+  "n": "Escola Profissional Dr. Francisco Fernandes (IQ)",
+  "nv": "prof",
+  "f": "São Martinho",
+  "m": "Rua de São Martinho, 9000-273",
+  "t": "291 721 360",
+  "e": "epff.iq@edu.madeira.gov.pt",
+  "nota": "E-mail a revalidar"
+ },
+ {
+  "id": "e44",
+  "n": "Escola de Hotelaria e Turismo da Madeira",
+  "nv": "prof",
+  "f": "São Martinho",
+  "m": "Travessa dos Piornais, 33, 9000-246",
+  "t": "291 764 393",
+  "e": "info@ephtm.com"
+ },
+ {
+  "id": "e45",
+  "n": "Instituto Profissional de Transportes e Logística",
+  "nv": "prof",
+  "f": "",
+  "m": "Rua Nova da Levada do Cavalo, 1, 9000-721",
+  "t": "291 720 164",
+  "e": "geral@iptl.pt"
+ },
+ {
+  "id": "e46",
+  "n": "Centro de Formação Profissional – IQ, IP-RAM",
+  "nv": "prof",
+  "f": "",
+  "m": "Estrada Comandante Camacho de Freitas, 9020-148",
+  "t": "291 701 090",
+  "e": "geral.iq@edu.madeira.gov.pt"
+ },
+ {
+  "id": "e47",
+  "n": "CELFF Funchal",
+  "nv": "prof",
+  "f": "Sé",
+  "m": "Ed. Marina Fórum, sala 103, 9000-060",
+  "t": "291 222 894",
+  "e": ""
+ },
+ {
+  "id": "e48",
+  "n": "Serviço Técnico de Educação Especial (DRE)",
+  "nv": "esp",
+  "f": "Santo António",
+  "m": "Caminho de Santo António, 289, 9020-002",
+  "t": "291 740 560",
+  "e": "aa.stee.dre@madeira.gov.pt"
+ },
+ {
+  "id": "e49",
+  "n": "CREE – Funchal (DRE)",
+  "nv": "esp",
+  "f": "Santo António",
+  "fc": 1,
+  "m": "Caminho de Santo António, 17 B, 9000-187",
+  "t": "291 742 135",
+  "e": "cree.fx.dre@madeira.gov.pt"
+ },
+ {
+  "id": "e50",
+  "n": "Centro de Reabilitação Psicopedagógica da Sagrada Família",
+  "nv": "esp",
+  "f": "",
+  "m": "Caminho da Penteada, 48, 9020-105",
+  "t": "291 705 830",
+  "e": "d.s.r.e.crpsf@irmashospitaleiras.pt"
+ },
+ {
+  "id": "e51",
+  "n": "Universidade da Madeira – Campus da Penteada",
+  "nv": "sup",
+  "f": "",
+  "m": "Campus Universitário da Penteada, 9020-105",
+  "t": "291 705 000",
+  "e": "info@mail.uma.pt",
+  "u": "https://www.uma.pt/"
+ },
+ {
+  "id": "e52",
+  "n": "Universidade da Madeira – Colégio dos Jesuítas",
+  "nv": "sup",
+  "f": "Sé",
+  "m": "Colégio dos Jesuítas, Funchal",
+  "t": "291 705 000",
+  "e": "info@mail.uma.pt",
+  "u": "https://www.uma.pt/"
+ },
+ {
+  "id": "e53",
+  "n": "Escola Superior de Enfermagem de São José de Cluny",
+  "nv": "sup",
+  "f": "",
+  "m": "Rampa da Quinta de Sant'Ana, 22, 9050-535",
+  "t": "291 743 444",
+  "e": "geral@esesjcluny.pt",
+  "u": "http://www.esesjcluny.pt/",
+  "nota": "Designação atual a confirmar"
+ },
+ {
+  "id": "e54",
+  "n": "ISAL – Instituto Superior de Administração e Línguas",
+  "nv": "sup",
+  "f": "Imaculado Coração de Maria",
+  "m": "Rua do Comboio, 5, 9050-053",
+  "t": "291 705 705",
+  "e": "isal@isal.pt",
+  "u": "http://www.isal.pt/"
+ }
+]
